@@ -1,4 +1,4 @@
 # Mope_labs
-Labs:\n
-1.py - first lab\n
+Labs:
+1.py - first lab
 3.py - third lab
